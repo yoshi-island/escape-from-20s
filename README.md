@@ -1,24 +1,5 @@
 # escape-from-20s
 
-## Project setup
-```
-npm install
-```
+## Site URL
+https://yoshi-dev.sakura.ne.jp/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
