@@ -1,0 +1,33 @@
+/*
+  うまく動かないのでこれは使わない、あとで消す
+*/
+/*
+  Answer.vueから呼ばれる
+*/
+/* 
+  scrollAnimationHeaderBorder()で動的に追記されるのでコメントアウト
+  scrollAnimationHeaderBorder()で読み込まれるのでこのシートは消さない
+  間違えて他のスタイルを消したりしないようにシートを分けている
+*/
+/*
+@keyframes border_anim_rightleft1 {
+  0% { transform: scaleY(0); }
+  100% { transform: scaleY(1); }
+}
+@keyframes border_anim_rightleft2 {
+  0% { transform: scaleY(0); }
+  100% { transform: scaleY(1); }
+}
+@keyframes border_anim_rightleft3 {
+  0% { transform: scaleY(0); }
+  100% { transform: scaleY(1); }
+}
+@keyframes border_anim_rightleft4 {
+  0% { transform: scaleY(0); }
+  100% { transform: scaleY(1); }
+}
+@keyframes border_anim_rightleft5 {
+  0% { transform: scaleY(0); }
+  100% { transform: scaleY(1); }
+}
+*/
